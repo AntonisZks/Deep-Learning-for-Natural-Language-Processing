@@ -172,3 +172,5 @@ cython_debug/
 
 Notebooks/*.txt
 Notebooks/*.zip
+
+glove_data/
