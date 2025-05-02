@@ -174,3 +174,4 @@ Notebooks/*.txt
 Notebooks/*.zip
 
 glove_data/
+google_news/
