@@ -1,4 +1,15 @@
-# Deep Learning for Natural Language Processing
+<div align="center">
+   <h1>Deep Learning for Natural Language Processing</h1>
+</div>
+
+<div align="center">
+
+![License](https://img.shields.io/github/license/AntonisZks/Deep-Learning-for-Natural-Language-Processing.svg)
+![Repository Size](https://img.shields.io/github/repo-size/AntonisZks/Deep-Learning-for-Natural-Language-Processing.svg)
+![Release](https://img.shields.io/github/v/release/AntonisZks/Deep-Learning-for-Natural-Language-Processing.svg)
+![Issues](https://img.shields.io/github/issues/AntonisZks/Deep-Learning-for-Natural-Language-Processing.svg)
+	
+</div>
 
 This repository contains implementations of various deep learning models for natural language processing (NLP) tasks, specifically sentiment classification on an English Twitter dataset. The project is based on assignments for the Department of Informatics and Telecommunications (DIT) at the University of Athens (UOA).
 
@@ -8,7 +19,6 @@ This repository contains implementations of various deep learning models for nat
 - [Repository Structure](#repository-structure)
 - [Models Implemented](#models-implemented)
 - [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
 - [Results](#results)
 - [License](#license)
 
@@ -102,39 +112,7 @@ The goal of this project is to build and fine-tune sentiment classifiers using v
 
 3. Download the datasets and place them in the [`data/`](data/) directory
 
-## Usage
-
-### Running Notebooks
-
-1. Open any of the Jupyter notebooks in the `notebooks/` directory to explore the models:
-   - [BERT Transformer](notebooks/bert_transformer.ipynb)
-   - [DistilBERT Transformer](notebooks/distilbert_transformer.ipynb)
-   - [TF-IDF Logistic Regression](notebooks/tfidf_logistic_regression.ipynb)
-   - [Word Embeddings with Deep Neural Networks](notebooks/word_embeddings_deep_neural_networks.ipynb)
-
-2. Execute the cells step-by-step to train, evaluate, and test the models.
-
-### Training and Evaluation
-
-- Modify hyperparameters, dataset paths, or model configurations directly in the notebooks.
-- Use the provided visualization functions to analyze training and validation performance.
-
-## Usage
-
-### Running Notebooks
-
-1. Open any of the Jupyter notebooks in the `notebooks/` directory to explore the models:
-   - [BERT Transformer](notebooks/bert_transformer.ipynb)
-   - [DistilBERT Transformer](notebooks/distilbert_transformer.ipynb)
-   - [TF-IDF Logistic Regression](notebooks/tfidf_logistic_regression.ipynb)
-   - [Word Embeddings with Deep Neural Networks](notebooks/word_embeddings_deep_neural_networks.ipynb)
-
-2. Execute the cells step-by-step to train, evaluate, and test the models.
-
-### Training and Evaluation
-
-- Modify hyperparameters, dataset paths, or model configurations directly in the notebooks.
-- Use the provided visualization functions to analyze training and validation performance.
+---
 
 ## License
 
