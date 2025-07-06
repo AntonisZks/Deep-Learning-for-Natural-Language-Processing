@@ -9,9 +9,13 @@
 ![Release](https://img.shields.io/github/v/release/AntonisZks/Deep-Learning-for-Natural-Language-Processing.svg)
 ![Issues](https://img.shields.io/github/issues/AntonisZks/Deep-Learning-for-Natural-Language-Processing.svg)
 	
+![thubnail](assets/imgs/thubnail.png)
+
 </div>
 
+
 This repository contains implementations of various deep learning models for natural language processing (NLP) tasks, specifically sentiment classification on an English Twitter dataset. The project is based on assignments for the Department of Informatics and Telecommunications (DIT) at the University of Athens (UOA).
+
 
 ## Table of Contents
 
