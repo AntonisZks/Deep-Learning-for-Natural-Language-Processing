@@ -9,7 +9,7 @@
 ![Release](https://img.shields.io/github/v/release/AntonisZks/Deep-Learning-for-Natural-Language-Processing.svg)
 ![Issues](https://img.shields.io/github/issues/AntonisZks/Deep-Learning-for-Natural-Language-Processing.svg)
 	
-<img src="assets/imgs/thubnail.png" alt="thumbnail" style="width: 100%;" />
+<img src="assets/imgs/thumbnail.png" alt="thumbnail" style="width: 100%;" />
 
 </div>
 
